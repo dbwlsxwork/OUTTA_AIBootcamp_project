@@ -8,7 +8,13 @@
 <table>
     <tbody>
         <tr>
-            <td align="center"><a href="https://github.com/dbwlsxwork"><img src="https://github.com/dbwlsxwork.png" width="100px;" alt=""/><br /><sub><b>dbwlsxwork </b></sub></a><br /></td>
+            <td align="center">
+                <a href="https://github.com/dbwlsxwork">
+                    <img src="https://github.com/dbwlsxwork.png" width="100px;" alt=""/><br />
+                    <sub><b>dbwlsxwork </b></sub>
+                </a><br />
+                <sub>정유진</sub>
+            </td>
             <td align="center"><a href="https://github.com/sunghp"><img src="https://github.com/sunghp.png" width="100px;" alt=""/><br /><sub><b>sunghp </b></sub></a><br /></td>
             <td align="center"><a href="https://github.com/OhJin-Soo"><img src="https://github.com/OhJin-Soo.png" width="100px;" alt=""/><br /><sub><b>OhJin-Soo </b></sub></a><br /></td>
             <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>임은석 </b></sub></a><br /></td>
