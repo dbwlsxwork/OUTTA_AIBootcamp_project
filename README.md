@@ -8,9 +8,9 @@
 <table>
     <tbody>
         <tr>
-            <td align="center"><a href="https://github.com/dbwlsxwork"><img src="width="100px;" alt=""/><br /><sub><b>정유진 </b></sub></a><br /></td>
-            <td align="center"><a href="https://github.com/sunghp"><img src="width="100px;" alt=""/><br /><sub><b>박성호 </b></sub></a><br /></td>
-            <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>오진수 </b></sub></a><br /></td>
+            <td align="center"><a href="https://github.com/dbwlsxwork"><img src="width="100px;" alt=""/><br /><sub><b>dbwlsxwork </b></sub></a><br /></td>
+            <td align="center"><a href="https://github.com/sunghp"><img src="width="100px;" alt=""/><br /><sub><b>sunghp </b></sub></a><br /></td>
+            <td align="center"><a href="https://github.com/OhJin-Soo"><img src="width="100px;" alt=""/><br /><sub><b>OhJin-Soo </b></sub></a><br /></td>
             <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>임은석 </b></sub></a><br /></td>
         </tr>
     </tbody>
