@@ -4,11 +4,11 @@
 
 해당 프로젝트는 총 3개의 세부 프로젝트로 구성되어 있습니다.
 
-## 팀원 소개
+## Team
 <table>
     <tbody>
         <tr>
-            <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>정유진 </b></sub></a><br /></td>
+            <td align="center"><a href="https://github.com/dbwlsxwork"><img src="width="100px;" alt=""/><br /><sub><b>정유진 </b></sub></a><br /></td>
         </tr>
     </tbody>
 </table>
