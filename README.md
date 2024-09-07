@@ -4,6 +4,15 @@
 
 해당 프로젝트는 총 3개의 세부 프로젝트로 구성되어 있습니다.
 
+## 팀원 소개
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>정유진 </b></sub></a><br /></td>
+        </tr>
+    </tbody>
+</table>
+
 ## [P1] Sign Language Classification
 Drop-In Replacement for MNIS for Hand Gesture Recognition Tasks
 
