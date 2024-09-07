@@ -28,7 +28,7 @@
                     <sub><b>OhJin-Soo </b></sub>
                 </a><br />
                 <sub>오진수</sub>
-                </td>
+            </td>
             <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>임은석 </b></sub></a><br /></td>
         </tr>
     </tbody>
