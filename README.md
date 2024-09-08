@@ -33,8 +33,9 @@
                 <a href="https://github.com/yim3001">
                     <img src="https://github.com/yim3001.png" width="100px;" alt=""/><br />
                     <sub><b>yim3001 </b></sub>
-                </a><br /></td>
+                </a><br />
                 <sub>임은석</sub>
+            </td>
         </tr>
     </tbody>
 </table>
