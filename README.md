@@ -29,7 +29,11 @@
                 </a><br />
                 <sub>오진수</sub>
             </td>
-            <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>임은석 </b></sub></a><br /></td>
+            <td align="center">
+                <a href="https://github.com/yim3001">
+                    <img src="https://github.com/yim3001.png" width="100px;" alt=""/><br />
+                    <sub><b>임은석 </b></sub>
+                </a><br /></td>
         </tr>
     </tbody>
 </table>
