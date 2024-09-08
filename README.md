@@ -32,8 +32,9 @@
             <td align="center">
                 <a href="https://github.com/yim3001">
                     <img src="https://github.com/yim3001.png" width="100px;" alt=""/><br />
-                    <sub><b>임은석 </b></sub>
+                    <sub><b>yim3001 </b></sub>
                 </a><br /></td>
+                <sub>임은석</sub>
         </tr>
     </tbody>
 </table>
