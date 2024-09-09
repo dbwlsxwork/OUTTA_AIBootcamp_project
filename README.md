@@ -9,8 +9,8 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/dbwlsxwork">
-                    <img src="https://github.com/dbwlsxwork.png" width="100px;" alt=""/><br />
+                <a href="https://github.com/uzlnee">
+                    <img src="https://github.com/uzlnee.png" width="100px;" alt=""/><br />
                     <sub><b>dbwlsxwork </b></sub>
                 </a><br />
                 <sub>정유진</sub>
