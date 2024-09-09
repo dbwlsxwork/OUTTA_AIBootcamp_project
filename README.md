@@ -11,7 +11,7 @@
             <td align="center">
                 <a href="https://github.com/uzlnee">
                     <img src="https://github.com/uzlnee.png" width="100px;" alt=""/><br />
-                    <sub><b>dbwlsxwork </b></sub>
+                    <sub><b>uzlnee </b></sub>
                 </a><br />
                 <sub>정유진</sub>
             </td>
